@@ -1,0 +1,38 @@
+Name: Yamini Joshi
+USC ID: 3766559278
+News site crawled: USAToday.com
+Number of threads: 10
+
+Fetch Statistics
+================
+fetches attempted: 20000
+fetches succeeded: 19925
+fetches failed or aborted: 75
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2787050
+# unique URLs extracted: 114716
+# unique URLs within News Site: 114716
+# unique URLs outside News Site: 0
+
+Status Codes:
+=============
+200 OK: 19925
+403 Forbidden: 2
+404 Not Found: 61
+410 Gone: 6
+500 Internal Server Error: 5
+503 Service Unavailable: 1
+
+File Sizes:
+===========
+< 1KB: 8
+1KB ~ <10KB: 5
+10KB ~ <100KB: 4604
+100KB ~ <1MB: 15061
+>= 1MB: 299
+
+Content Types:
+==============
+text/html: 19971

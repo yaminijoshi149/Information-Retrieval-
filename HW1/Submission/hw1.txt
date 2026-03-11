@@ -1,0 +1,6 @@
+Search Engine: Bing
+
+Average Percent Overlap: 12.7%
+Average Percent Spearman Coeffiecient: 0.152
+
+According to the data, there is a comparatively less resemblance between Bing and Google search results, which is made evident by the Average Percent Overlap of 12.7%. And a very weak positive association between the rankings of common urls is shown by the Average Spearman Coefficient of 0.152. This suggests that even though the search results have some overlap, they are ranked in a very different order. Therefore, we can conclude that Bing and Google provide very different search results, with little similarity in the order in which they rank similar results.
